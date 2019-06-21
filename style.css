@@ -1,3 +1,107 @@
-h1 {
-  color: red;
+body{
+	background-color:#ffe6f2;
+	padding:auto;
+	margin:auto;
+	margin-bottom:20px;
+	margin-top:20px;
+	width:1000px;
+	
+}
+
+h1{
+ font-size: 200%; 
+ color:#ff66b3; 
+ text-align: center;
+}
+ 
+ h3{
+	font-size: 130%;
+}
+
+ ul{
+	color:#99004d;
+	list-style:circle;
+	font-style:italic;
+}
+ 
+ svg{
+	 color:pink;
+	 width:20px;
+	height:20px;
+}
+ section{
+	 width:550px;
+	 height:200px;
+	 float:left;
+	 padding-top:30px;
+}
+ 
+ aside{
+	 float: right;
+	 width:250px;
+	 height:600px;
+	 padding-top:30px;
+	
+}
+
+ a{
+	 color:white;
+	 background-color:#ff9999;
+	 font-style:italic;
+	 float:inherit;
+ }
+ 
+ img {
+	float:left;
+	width:200px;
+	height:200px;
+}
+
+#porc {
+	width:500px;
+	height:300px;
+	float:center;
+}
+	 
+.description { 
+	padding: 6px;
+	margin-left:300px;
+}
+
+.reproduction { 
+	border-width:2px;
+	border-style: solid;
+	border-color:#ff66b3;
+	padding: 10px;
+}
+
+.habitat {
+	border-width:2px;
+	border-style: solid;
+	border-color:#ff66b3;
+	padding: 10px;
+}
+
+.alimentation {
+	margin-right:-80px;
+	border-width:2px;
+	border-style: solid;
+	border-color:#ff66b3;
+	padding: 10px;	
+}
+
+.cri {
+	margin-right:-80px;
+	border-width:2px;
+	border-style: solid;
+	border-color:#ff66b3;
+	padding: 10px;
+}
+
+.signes {
+		margin-right:-80px;
+	border-width:2px;
+	border-style: solid;
+	border-color:#ff66b3;
+	padding: 10px;
 }
